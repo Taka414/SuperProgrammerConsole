@@ -1,0 +1,2 @@
+# SuperProgrammerConsole
+キーボードを適当に打つだけでスーパープログラマー気分を味わえるツール
